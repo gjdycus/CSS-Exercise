@@ -1,0 +1,33 @@
+/* PHASE 4: Footer */
+.footer {
+  width: 900px;
+  position: relative;
+  background: #fff;
+  margin: auto;
+  color: #aaa;
+  font-size: 14px;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.footer-content ul {
+  float: right;
+  margin-right: 10px;
+}
+
+.footer-content ul li {
+  float: left;
+  margin: 20px 10px;
+}
+
+.footer-content ul li:hover {
+
+}
+
+.copyright {
+  float: left;
+  padding: 20px;
+}
